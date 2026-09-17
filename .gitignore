@@ -34,3 +34,6 @@ dist/
 
 # Power BI temporary files
 ~$*.pbix
+# Raw data
+data/raw/*
+!data/raw/.gitkeep
